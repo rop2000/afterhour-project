@@ -14,7 +14,7 @@ There are 5 key folders within the **src** folder:
 
 First, clone the project files with:
 
-`git clone `
+`git clone https://github.com/rop2000/afterhour-project.git`
 
 Next, navigate into the root of the project directory. In here, run:
 
